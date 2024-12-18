@@ -1,0 +1,155 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.firstSectioncontainer {
+  margin: 156px auto 115px;
+  max-width: 1400px;
+  width: 100%;
+  height: 674px;
+  border-radius: 33.185px;
+}
+
+
+.descriptionOfFirstSection {
+  color: #FFF;
+  font-size: 48.452px;
+  font-weight: 400;
+  margin-top: -640px;
+  /* * max-width: 1400px; არ ვწერ იმიტომ რომ ავტომატურად იკავებს და პადინგების  გამოვაკელით და ვიღებ ტექსტის ზომას 1258px  */
+  width: 100%;
+  padding: 0px 71px;
+}
+
+.secondSectionContainer {
+  padding: 40px 32px;
+  max-width: 1137px;
+  width: 100%;
+  border-radius: 24px;
+  background: #EBF8FE;
+  margin: auto;
+}
+
+.SecondSectiontitle {
+  color: #181D27;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -1.28px;
+  text-align: center;
+}
+
+.SecondSectionDescription {
+  color: #535862;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
+  margin: 24px 0px;
+}
+
+
+.FormDiv {
+  margin: auto;
+  max-width: 490px;
+  width: 100%;
+}
+
+.inputEmail {
+  max-width: 345px;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #D5D7DA;
+  background: #FFF;
+  padding: 14px;
+  display: inline-block;
+}
+
+.inputSubscribe {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  border-radius: 8px;
+  border: 2px solid #FFF;
+  background: #007CB8;
+  padding: 12px 18px;
+  display: inline-block;
+  margin-left: 24px;
+}
+
+.secondSectionFinalParagraph {
+  color: #535862;
+  font-weight: 400;
+  line-height: 20px;
+  color: #535862;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: 8px;
+}
+
+.ThirdSectionContainer {
+  max-width: 546px;
+  width: 100%;
+  padding: 40px 32px;
+  border-radius: 24px;
+  background: #EBF8FE;
+  margin: 72px auto 99px;
+}
+
+/* form Section========================== */
+.SubmitTitle {
+  color: #181D27;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -0.8px;
+  margin-bottom: 24px;
+}
+
+
+.LabelFullNameaAndEmail {
+  display: block;
+  color: #1B003D;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-bottom: 8px;
+}
+
+#emailID,
+#NameID {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid #380054;
+  max-width: 482px;
+  width: 100%;
+}
+
+.emailAndCheckDiv {
+  margin-top: 24px;
+}
+
+.checkLabels {
+  color: #1B003D;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.RadioYes {
+  margin-top: 7px;
+}
+.LabelMarginer {
+  margin-top: 10px;
+}
+
+.ComputerSceinceLanguage {
+  margin-top: 27px;
+}
+
+.checkBocksAndRadio {
+  color: #6D5F8B;
+}
